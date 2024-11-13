@@ -85,5 +85,16 @@ Some features to consider for future versions:
 - **Advanced Memory**: Enable multi-session memory to recall user interactions across sessions.
 
 ---
+📝 Version Notes
 
-Feel free to customize this template further to suit your project!
+v1.0.0 - Initial Release
+Core Features:
+GPT-3 Integration: Provides intelligent, conversational responses to coding questions.
+Personalized User Interaction: Asks for the user's name and coding skill level to tailor responses.
+Memory System: Remembers questions and answers within a single session.
+Supportive & Motivational Responses: Offers encouragement and motivation to keep users engaged.
+Simple Command Interface: Users can exit by typing "exit", "quit", or "bye".
+Planned Features
+Enhanced Memory Matching: Improved recall for similar questions across sessions.
+Customizable Responses: Options for users to adjust PyBot’s responses and tone.
+UI Enhancements: Adding colored output for a more user-friendly experience.
